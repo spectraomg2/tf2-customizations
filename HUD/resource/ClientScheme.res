@@ -4428,3 +4428,13 @@ Scheme
 		}			
 	}
 }
+“CrossHairCircle”
+{
+“1”
+{
+“name” “Formas germetricas 1”
+“tall” “28”
+“weight”	“0”
+“antialias”	“1”
+}
+}
